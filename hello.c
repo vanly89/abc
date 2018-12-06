@@ -15,3 +15,4 @@ fffffffffff---remote
 88888888888---remote
 99999999999---renote
 jjjjjjjjjjj---local
+00000000000 --local
